@@ -1,5 +1,5 @@
 
-# OpenGPG Public Key
+# OpenPGP Public Key
 
 You can use the PGP public key in the .asc file to send me encrypted emails to the address
 
